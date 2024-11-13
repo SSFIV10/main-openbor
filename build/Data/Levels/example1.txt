@@ -85,8 +85,12 @@ coords	200 180
 at	0
 
 spawn	Shermie
-coords	350 160
-at	10
+alias   Jessica
+health  20
+item    apple
+boss    1
+coords	380 200
+at
 
 spawn	Steamer
 coords	380 241
